@@ -1,0 +1,14 @@
+{
+  "name": "Dog",
+  "license": "Creative Commons Attribution 4.0 International",
+  "url": "https://icons.coreui.io/icons/linear/dog/",
+  "attribution": [
+    "https://github.com/coreui/coreui-icons",
+    "https://coreui.io/icons"
+  ],
+  "author": {
+    "name": "CoreUI Icons",
+    "url": "https://coreui.io"
+  },
+  "tags": ["dog"]
+}
