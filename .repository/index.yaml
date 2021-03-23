@@ -1,0 +1,15 @@
+slug: dog-project
+description: Identify a canine breed from an image.
+project: udacity
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "udacity-ml-nanodegree",
+    "cnn-classification"
+  ]
